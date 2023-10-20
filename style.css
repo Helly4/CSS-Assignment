@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    /* box-sizing: border-box; */
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    align-items: center;
+    border: 1px solid white;
+    box-shadow: 0 0 50px rgb(180, 198, 201) inset;
+    width: auto;
+    background-position: center;
+    align-items: center;
+    margin: 60px;
+    padding: 70px;
+}
+
+h1 {
+    padding: 30px;
+    text-align: center;
+    font-family: 'Nosifer', sans-serif;
+    font-size: 70px;
+    background: linear-gradient(white 30%, rgb(214, 129, 143) 50%, rgb(192, 17, 99) 70%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    
+}
+
+h2 {
+    text-align: center;
+    color: rgb(222, 177, 209);
+}
+
+.stanza1 {
+    text-align: center;
+    color: ghostwhite;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 30px;
+    font-size: medium;
+}
+
+.stanza2 {
+    text-align: center;
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    line-height: 30px;
+}
+
+.line1 {
+    text-align: center;
+    color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    line-height: 30px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+}
+
+.stanza3 {
+    text-align: center;
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    line-height: 30px;
+}
+
+.stanza4 {
+    text-align: center;
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    line-height: 30px;
+}
+
+.line2 {
+    font-family: 'Dancing Script', cursive;
+    color: rgb(157, 219, 244);
+    text-align: center;
+    font-size: 23px;
+}
+
+.stanza5 {
+    text-align: center;
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    line-height: 30px;
+}
+
+.stanza6 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: azure;
+    font-size: medium;
+    line-height: 30px;
+}
+
+.line3{ 
+    text-align: center; 
+    font-family: 'Dancing Script', cursive;
+    color: rgb(157, 219, 244);
+    font-size: 23px;
+}
